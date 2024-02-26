@@ -168,7 +168,7 @@
 .footer ul{
     list-style: none;
 }
-.footer .footer-link{
+.footer .footer-link li{
     text-decoration: none;
     color: aliceblue;
 }
